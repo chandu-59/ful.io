@@ -1,0 +1,4 @@
+A. By entering a section of the command and hitting "Ctrl + r," users of Linux terminals can search through their command history. 
+B. We can use the command ls -a or ls -al, which displays all files and directories, including hidden ones, in the current directory.
+C. I might be lacking in practical knowledge but im good at theoretical cocepts of LinuxOS and it's commands.
+D. I have used SMTP service to host the severs of the web application "Agile-11" and Nginx to host the servers of "memories" web app.
